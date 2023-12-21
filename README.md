@@ -18,10 +18,10 @@ The student is required to implement from scratch (without using libraries, such
 Optional: Instead of regular ridge regression, implement kernel ridge regression using a Gaussian kernel.
 
 
-## Contribuisci
+## Contribute
 
-- Fork il repository
-- Crea un branch (git checkout -b feature-nuova-feature)
-- Commit le tue modifiche (git commit -am 'Aggiunta nuova feature')
-- Push al branch (git push origin feature-nuova-feature)
-- Apri una Pull Request
+- Fork the repository
+- Create a branch (git checkout -b feature-new-feature)
+- Commit your changes (git commit -am 'Add new feature')
+- Push the branch (git push origin feature-new-feature)
+- Open a Pull Request
